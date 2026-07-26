@@ -4,7 +4,6 @@
 
 Sou técnico em Eletroeletrônica, estudante de Engenharia de Controle e Automação e desenvolvedor de sistemas embarcados, com atuação em pesquisa e inovação.
 Trabalho principalmente no desenvolvimento de novos produtos, PoCs e MVPs. Atuo na implementação de projetos de hardware e firmware, utilizando conceitos de Design Thinking para validar a viabilidade técnica e comercial de soluções tecnológicas, especialmente em IoT.
-Stack:
 
 **Stack:**
 
