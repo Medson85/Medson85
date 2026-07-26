@@ -9,7 +9,7 @@ Trabalho principalmente no desenvolvimento de novos produtos, PoCs e MVPs. Atuo 
 
 `C` `C++` `Python` · `FreeRTOS` `Zephyr RTOS` · `ESP32` `STM32` `Nordic` · `UART` `I2C` `SPI` `I2S` · `BLE` `WiFi` · `KiCad` `EasyEDA`
 
-### O que eu faço
+### Experiencias
 * **Firmware:** Desenvolvimento em C/C++ focado em microcontroladores (ESP32, STM32, Nordic, Raspberry e PIC).
 * **Automação (Python):** Scripts para manipulação de arquivos, processamento de logs, leitura de CSV e expressões regulares, com tratamento de exceções, automação de testes e geração de relatórios.
 * **RTOS:** Experiência com **Zephyr RTOS** e **FreeRTOS**.
